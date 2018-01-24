@@ -9,6 +9,7 @@ package consumer;
 public class consumerreport {
 	public static void main(String args[]) {
 		System.out.println("Added author 1");
+		System.out.println("Second developer");
 		ConsumerInfo ci = new ConsumerInfo();
 		String[] names = { "Aijal", "Savy", "Binu", "lily", "amy" };
 		String fullname = null;
